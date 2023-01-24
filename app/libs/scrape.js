@@ -137,6 +137,7 @@ const freeWrapper = {
   'piggo.me': _free,
   'hdatmos.club': _free,
   'hhanclub.top': _free,
+  'sharkpt.net': _free,
   'open.cd': _freeOpencd,
   'www.open.cd': _freeOpencd,
   'totheglory.im': _freeToTheGlory,
@@ -180,6 +181,7 @@ const hrWrapper = {
   'ourbits.club': _hr,
   'piggo.me': _hr,
   'hhanclub.top': _hr,
+  'sharkpt.net': _hr,
   'totheglory.im': _hrToTheGlory,
   'chdbits.co': _hrToCHDBits
 };
